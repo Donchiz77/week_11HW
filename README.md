@@ -6,4 +6,4 @@ My assignment is to modify starter code to create an application called Note Tak
 
 
 ##finished product.
-![Alt text](Note-Taker.gif) / ![](Note-Taker.gif)
+![Note Taker](https://user-images.githubusercontent.com/82687183/128584835-ca7db7eb-d347-4c89-98ef-39636e2520a6.gif)
